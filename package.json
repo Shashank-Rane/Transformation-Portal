@@ -1,0 +1,34 @@
+{
+  "name": "contactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "cls && node app/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.4.6",
+    "@angular/core": "^4.4.6",
+    "@angular/forms": "^4.4.6",
+    "@angular/router": "^4.0.0",
+    "angular-star-rating": "^3.0.8",
+    "angular2-material-datepicker": "^0.5.0",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "jade": "^1.11.0",
+    "md5": "^2.2.1",
+    "mongoose": "^4.12.5",
+    "ng2-rating": "0.0.7",
+    "ng2-slider-component": "^1.0.9",
+    "ng2-smart-table": "^1.2.2",
+    "ng2-webstorage": "^1.8.0",
+    "ngx-permissions": "^2.1.1",
+    "rxjs": "^5.5.2",
+    "zone.js": "^0.8.4"
+  }
+}
